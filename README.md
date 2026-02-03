@@ -4,3 +4,6 @@ NAME - KINTHAN.K.RAJA
 COURSE - BCA
 SECTION - 'A'
 USN - 1RUA25BCA0049
+ivc
+python
+computer organisation
